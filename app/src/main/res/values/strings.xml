@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Java Quiz App</string>
+    <string name="question1header">Question One</string>
+    <string name="question1">What are Java primitive data types?</string>
+    <string name="question2header">Question Two</string>
+    <string name="question2">Write down bellow a missing word in ... \nEditText nameET = ( ... ) findViewById(R.id.name_e_t);</string>
+    <string name="missingword">A missing word</string>
+    <string name="question3header">Question Three</string>
+    <string name="question3">Is Java an object-oriented programming language?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question4header">Question Four</string>
+    <string name="question4">What is correct syntax for main method?</string>
+    <string name="none">None of the above</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="points">Points: </string>
+    <string name="total_points">Total points: </string>
+</resources>
